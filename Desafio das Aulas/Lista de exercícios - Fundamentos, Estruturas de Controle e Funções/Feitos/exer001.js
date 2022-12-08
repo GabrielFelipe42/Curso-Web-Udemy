@@ -1,8 +1,8 @@
 function operacoes (a=0,b=0) {
-    console.log(a+b)
-    console.log(a-b)
-    console.log(a*b)
-    console.log(a/b)
+    console.log('A soma é ' + (a+b))
+    console.log('A Sub é ' +  (a-b))
+    console.log('A Multp é ' + (a*b))
+    console.log('A Div é ' + (a/b))
 }
 
 
